@@ -1,6 +1,6 @@
 name: NoEXP
 version: '${project.version}'
-main: de.chunkeater32.noexp.NoEXP
+main: de.chunkeater.noexp.NoEXP
 authors: [ ChunkEater32 ]
 commands:
   exptoggle:

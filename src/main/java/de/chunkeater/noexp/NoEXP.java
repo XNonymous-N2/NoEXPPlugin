@@ -1,4 +1,4 @@
-package de.chunkeater32.noexp;
+package de.chunkeater.noexp;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
