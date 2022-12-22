@@ -1,7 +1,0 @@
-name: NoEXP
-version: '${project.version}'
-main: de.chunkeater.noexp.main
-authors: [ ChunkEater32 ]
-commands:
-  exptoggle:
-    permission: exp.toggle
